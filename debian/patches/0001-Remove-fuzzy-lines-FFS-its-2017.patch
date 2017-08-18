@@ -1,0 +1,26 @@
+From: =?utf-8?q?Yunusemre_=C5=9Eent=C3=BCrk?=
+ <yunusemre.senturk@pardus.org.tr>
+Date: Fri, 18 Aug 2017 15:37:26 +0300
+Subject: Remove fuzzy lines FFS its 2017
+
+---
+ po/tr.po | 2 --
+ 1 file changed, 2 deletions(-)
+
+diff --git a/po/tr.po b/po/tr.po
+index 88c4712..1f934cb 100644
+--- a/po/tr.po
++++ b/po/tr.po
+@@ -49,12 +49,10 @@ msgid "download"
+ msgstr "indirilenler"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+ msgstr "İndirilenler"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+ msgstr "indirilenler"
+ 
