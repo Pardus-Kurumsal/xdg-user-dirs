@@ -1,3 +1,10 @@
+xdg-user-dirs (0.15-3pardus1) onyedi; urgency=medium
+
+  * Add .drone.yml
+  * Add pardus translation patch
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 18 Aug 2017 16:27:08 +0300
+
 xdg-user-dirs (0.15-2) unstable; urgency=medium
 
   * Make xdg-user-dirs Multi-Arch: foreign as this is a tool which can be run
